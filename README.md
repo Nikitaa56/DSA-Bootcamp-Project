@@ -1,12 +1,11 @@
 # DSA-Bootcamp-Project
 Real Time Messaging Queue System
-Here's the updated `README.md` with the new project title:
 
 ---
 
-Real-Time Messaging Queue System
+# Real-Time Messaging Queue System
 
-This project simulates a real-time messaging system using a GUI built with Python's `tkinter` library. The system allows users to act as a Customer, **Restaurant**, or **Delivery Partner**, and process real-time messages about restaurant orders. Customers can create new orders or check their status, restaurants can update order preparation statuses, and delivery partners can update delivery statuses.
+This project simulates a real-time messaging system using a GUI built with Python's `tkinter` library. The system allows users to act as a **Customer**, **Restaurant**, or **Delivery Partner**, and process real-time messages about restaurant orders. Customers can create new orders or check their status, restaurants can update order preparation statuses, and delivery partners can update delivery statuses.
 
 ## Features
 
@@ -98,11 +97,3 @@ The project comes with some pre-configured sample data:
 - **Delivery Partners**: 
   - John (DP001) – Available.
   - Sarah (DP002) – Busy.
-
-## License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute it as you see fit.
-
----
-
-Let me know if you’d like any further changes!
